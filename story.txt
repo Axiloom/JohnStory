@@ -1,1 +1,1 @@
-Once upon a time there was a computer science student named John. John couldnt remenber how to use git commands and asked his brother Aaron how to clone his repository. Aaron told him to use git clone.
+Once upon a time there was a computer science student named John. John couldnt remember how to use git commands and asked his brother Aaron how to clone his repository. Aaron told him to use git clone. His friend Josh tried to edit his story, however, he did not know how. Fortunately, John knew how to do this and now Josh is happy.
