@@ -1,0 +1,1 @@
+Once upon a time there was a computer science student named John. John couldnt remenber how to use git commands and asked his brother Aaron how to clone his repository. Aaron told him to use git clone.
